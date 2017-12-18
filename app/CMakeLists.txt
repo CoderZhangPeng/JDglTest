@@ -26,6 +26,9 @@ add_library( # Sets the name of the library.
              src/main/cpp/vertexbuffer.h
              src/main/cpp/ground.h
              src/main/cpp/ground.cpp
+             src/main/cpp/vertexbuffer.h
+             src/main/cpp/vertexbuffer.cpp
+
  )
 
 # Searches for a specified prebuilt library and stores the path as a
